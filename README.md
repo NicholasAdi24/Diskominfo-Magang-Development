@@ -6,6 +6,7 @@ Feel free to check it out!
 
 ## Authors:
 - Nicholas Priyambodo Adi
+https://github.com/NicholasAdi24
 - Ferdy Fernando
 - Muhammad Fathan Mubiina
 - Thufail Azzam
